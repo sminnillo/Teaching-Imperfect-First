@@ -1,0 +1,957 @@
+Group,Course,ID,Number,Infinitive,Appropriate,Ambiguous,Inappropriate,Form,Corrected Form 
+Experimental,SPA 3,E_Text 1,1,Ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 1,2,Conocer,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 1,3,Ser,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 1,4,Llevarse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 1,5,Ayudar a encontrar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 1,6,Gustar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 1,7,Ser,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 1,8,Ir a buscar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 1,9,Conocer,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 1,10,Conocer,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 1,11,Buscar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 1,12,Dar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 1,13,Conocer,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 1,14,Invitar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 1,15,Hacerse,,,1,Present,Preterite
+Experimental,SPA 3,E_Text 1,16,Irse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 1,17,Saber,,,1,Present,Imperfect
+Experimental,SPA 3,E_Text 1,18,Animar,,,1,Present,Preterite
+Experimental,SPA 3,E_Text 1,19,Aceptar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 1,20,Marcar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 1,21,Estar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 1,22,Invitar a tomar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 1,23,Decir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 1,24,Recibir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 1,25,Ver,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 1,26,Reunirse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 1,27,Recibir,,,1,Preterite,Infinitive
+Experimental,SPA 3,E_Text 1,28,Estar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 1,29,Recibir,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 1,30,Enfermar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 2,1,Empezar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 2,2,Aceptar,1,,,Gerund,Gerund
+Experimental,SPA 3,E_Text 2,3,Pasar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 2,4,Querer ir,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 2,5,Necesitar,,,1,Preterite,Imperfect
+Experimental,SPA 3,E_Text 2,6,Ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 2,7,Sacar,,,1,Preterite,Imperfect
+Experimental,SPA 3,E_Text 2,8,Escuchar,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 2,9,Aparecer,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 2,10,Conocer,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 2,11,Intercambiar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 2,12,Estar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 2,13,Tener,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 2,14,Terminar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 2,15,Darse cuenta,,,1,Infinitive,Gerund
+Experimental,SPA 3,E_Text 2,16,Tener,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 3,1,Estar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 3,2,Hacer,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 3,3,Conocer,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 3,4,Participar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 3,5,Llegar,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 3,6,Estar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 3,7,Tener,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 3,8,Ayudar a comprar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 3,9,Ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 3,10,Pedir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 3,11,Conocer,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 3,12,Ayudar a encontrar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 3,13,Viajar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 3,14,Conocer,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 3,15,Ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 3,16,Divertirse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 3,17,Ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 3,18,Querer,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 3,19,Celebrar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 3,20,Reírse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 3,21,Recibir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 3,22,Decir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 3,23,Poder intercambiar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 3,24,Reunirse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 4,1,Ir,,,1,Preterite,Imperfect
+Experimental,SPA 3,E_Text 4,2,Participar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 4,3,Sentarse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 4,4,Hablar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 4,5,Tocar,,,1,Present,Preterite
+Experimental,SPA 3,E_Text 4,6,Reunirse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 4,7,Buscar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 4,8,Ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 4,9,Reunirse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 4,10,Dar,,,1,Present,Preterite
+Experimental,SPA 3,E_Text 4,11,Ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 4,12,Vivir,,,1,Present,Imperfect
+Experimental,SPA 3,E_Text 4,13,Llamarse,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 4,14,Vivir,,,1,Present,Imperfect
+Experimental,SPA 3,E_Text 4,15,Invitar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 4,16,Reunirse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 4,17,Hacer,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 4,18,Ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 4,19,Recibir,,,1,Present,Preterite
+Experimental,SPA 3,E_Text 4,20,Decir,1,,,Gerund,Gerund
+Experimental,SPA 3,E_Text 4,21,Ir,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 4,22,Reunirse,1,,,Preterite ,Preterite
+Experimental,SPA 3,E_Text 4,23,Intercambiar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 4,24,Salir ,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 4,25,Ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 4,26,Reunirse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 4,27,Intercambiar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 4,28,Volver,,,1,Present,Preterite
+Experimental,SPA 3,E_Text 4,29,Entender,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 4,30,Tener,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 4,31,Reír,1,,,Preterite ,Preterite
+Experimental,SPA 3,E_Text 5,1,Aceptar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 5,2,Invitar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 5,3,Estar,,,1,Present,Imperfect
+Experimental,SPA 3,E_Text 5,4,Comenzar a hablar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 5,5,Decir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 5,6,Contactar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 5,7,Obtener,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 5,8,Tener,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 5,9,Reunirse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 5,10,Intercambiar,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 5,11,Estar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 5,12,Tener,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 5,13,Estar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 5,14,Tener,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 6,1,Aceptar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 6,2,Ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 6,3,Ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 6,4,Necesitar encontrarse,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 6,5,Crear,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 6,6,Hablar,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 6,7,Intercambiar,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 6,8,Ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 6,9,Encontrarse,,,1,Preterite,Infinitive
+Experimental,SPA 3,E_Text 6,10,Abrir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 6,11,Ser,,1,,Preterite,Ambiguous
+Experimental,SPA 3,E_Text 6,12,Ver,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 6,13,Tener,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 6,14,Poner,,,1,Imperfect,Preterite
+Experimental,SPA 3,E_Text 6,15,Volver,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 6,16,Poder parar de reírse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 6,17,Haber ,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 7,1,Estudiar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 7,2,Conocer,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 7,3,Llegar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 7,4,Dar la bienvenida,,,1,Participle,Preterite
+Experimental,SPA 3,E_Text 7,5,Reunirse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 7,6,Darse cuenta,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 7,7,Tener,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 7,8,Llamar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 7,9,Necesitar proteger,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 7,10,Encontrar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 7,11,Enviar,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 7,12,Visitar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 7,13,Ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 7,14,Comer,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 7,15,Ver,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 7,16,Enojarse,,,1,Imperfect,Preterite
+Experimental,SPA 3,E_Text 7,17,Ser,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 7,18,Terminar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 7,19,Dar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 7,20,Mirar ,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 7,21,Poder encontrar,,,1,Imperfect,preterite
+Experimental,SPA 3,E_Text 7,22,Encontrar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 7,23,Esperar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 7,24,Ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 7,25,Jugar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 7,26,Poder encontrar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 8,1,Celebrar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 8,2,Ganar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 8,3,Invitar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 8,4,Poder ir,,,1,Imperfect,preterite
+Experimental,SPA 3,E_Text 8,5,Tener que hablar,,,1,Preterite,imperfect
+Experimental,SPA 3,E_Text 8,6,Ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 8,7,Sacar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 8,8,Mirar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 8,9,Decir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 8,10,Tratar de encontrar,,1,,Preterite,Ambiguous
+Experimental,SPA 3,E_Text 8,11,Contactar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 8,12,Ubicar,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 8,13,Vivir,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 8,14,Poder ayudar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 8,15,Saber,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 8,16,Juntar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 8,17,Estar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 8,18,Tener,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 8,19,Decir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 8,20,Estar,,,1,Present,Imperfect
+Experimental,SPA 3,E_Text 8,21,Tener,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 8,22,Regresar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 8,23,Darse cuenta,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 8,24,Equivocarse,1,,,imperfect,imperfect
+Experimental,SPA 3,E_Text 9,1,Pasar,,,1,Imperfect,Preterite
+Experimental,SPA 3,E_Text 9,2,Invitar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 9,3,Querer,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 9,4,Ver,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 9,5,Hablar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 9,6,Contactar,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 9,7,Ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 9,8,Recoger,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 9,9,Aprender,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 9,10,Estar,,,1,Conditional,Imperfect
+Experimental,SPA 3,E_Text 9,11,Querer,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 9,12,Ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 9,13,Tener,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 10,1,Continuar,1,,,Present,Present
+Experimental,SPA 3,E_Text 10,2,Estar,1,,,Present,Present
+Experimental,SPA 3,E_Text 10,3,Ganar,1,,,Present,Present
+Experimental,SPA 3,E_Text 10,4,Ir,1,,,Present,Present
+Experimental,SPA 3,E_Text 10,5,Mirar,1,,,Present,Present
+Experimental,SPA 3,E_Text 10,6,Tener,1,,,Present,Present
+Experimental,SPA 3,E_Text 10,7,Poder hablar,1,,,Present,Present
+Experimental,SPA 3,E_Text 10,8,Planear encontrarse,1,,,Present,Present
+Experimental,SPA 3,E_Text 10,9,Hablar,1,,,Present,Present
+Experimental,SPA 3,E_Text 10,10,Intentar intercambiar,1,,,Present,Present
+Experimental,SPA 3,E_Text 10,11,Dar,1,,,Present,Present
+Experimental,SPA 3,E_Text 10,12,Saber,1,,,Present,Present
+Experimental,SPA 3,E_Text 10,13,Encontrarse,1,,,Present,Present
+Experimental,SPA 3,E_Text 11,1,Empezar,,1,,Present,ambiguous
+Experimental,SPA 3,E_Text 11,2,Recibir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 11,3,Estar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 11,4,Estar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 11,5,Ir,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 11,6,Invitar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 11,7,Ir a llamar,,,1,Imperfect,preterite
+Experimental,SPA 3,E_Text 11,8,Ver,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 11,9,Disculparse,,,1,Present,Preterite
+Experimental,SPA 3,E_Text 11,10,Confundir,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 11,11,Hablar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 11,12,Saber,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 11,13,Decidir quedarse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 11,14,Encontrarse,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 11,15,Intercambiar,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 11,16,Decir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 11,17,Ayudar a encontrar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 11,18,Devolver,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 11,19,Intercambiar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 11,20,Encontrar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 11,21,Llegar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 11,22,Ver,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 11,23,Tener,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 11,24,Saber,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 11,25,Encontrar,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 12,1,Ser invitado,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 12,2,Declinar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 12,3,Necesitar hablar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 12,4,Recibir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 12,5,Ser,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 12,6,Llamarse,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 12,7,Planear,,1,,Present,Ambiguous
+Experimental,SPA 3,E_Text 12,8,Intercambiar,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 12,9,Decir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 12,10,Unir,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 12,11,Llegar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 12,12,Descubrir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 12,13,Volver a confundir,,,1,Preterite,Pluscuamperfect
+Experimental,SPA 3,E_Text 12,14,Saber,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 12,15,Encontrar,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 13,1,terminar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 13,2,pasar,,,1,Imperfect,preterite
+Experimental,SPA 3,E_Text 13,3,significar,1,,,imperfect,imperfect
+Experimental,SPA 3,E_Text 13,4,ganar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 13,5,aceptar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 13,6,decir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 13,7,poner,,,1,Preterite,Imperfect
+Experimental,SPA 3,E_Text 13,8,estar,,,1,Present,imperfect
+Experimental,SPA 3,E_Text 13,9,crear,,,1,Participle,pluperfect
+Experimental,SPA 3,E_Text 13,10,tener,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 13,11,decir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 13,12,contactar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 13,13,ubicar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 13,14,vivir,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 13,15,ser,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 13,16,decir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 13,17,estar,,,1,Present,Imperfect
+Experimental,SPA 3,E_Text 13,18,ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 13,19,reunirse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 13,20,comer,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 13,21,reunirse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 13,22,reunirse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 13,23,ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 13,24,estar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 14,1,ver,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 14,2,estar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 14,3,pasar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 14,4,crear,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 14,5,decir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 14,6,estar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 14,7,contactar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 14,8,ayudar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 14,9,irse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 14,10,intercambiarse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 14,11,estar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 14,12,tener,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 14,13,irse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 14,14,darse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 14,15,equivocarse,1,,, Preterite,Preterite
+Experimental,SPA 3,E_Text 15,1,mirar,1,,,Present,Present
+Experimental,SPA 3,E_Text 15,2,ganar,1,,,Present,Present
+Experimental,SPA 3,E_Text 15,3,aceptar,1,,,Present,Present
+Experimental,SPA 3,E_Text 15,4,recibir,1,,,Present,Present
+Experimental,SPA 3,E_Text 15,5,tener,1,,,Present,Present
+Experimental,SPA 3,E_Text 15,6,ir,1,,,Present,Present
+Experimental,SPA 3,E_Text 15,7,intercambiar,1,,,Present,Present
+Experimental,SPA 3,E_Text 15,8,estar,1,,,Present,Present
+Experimental,SPA 3,E_Text 15,9,tener,1,,,Present,Present
+Experimental,SPA 3,E_Text 15,10,regresar,1,,,Present,Present
+Experimental,SPA 3,E_Text 15,11,tener,1,,,Present,Present
+Experimental,SPA 3,E_Text 16,1,aceptar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 16,2,estar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 16,3,pasar,,1,,Imperfect,ambiguous
+Experimental,SPA 3,E_Text 16,4,invitar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 16,5,tomar,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 16,6,decir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 16,7,necesita llamar,,,1,Present,imperfect
+Experimental,SPA 3,E_Text 16,8,recibir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 16,9,haber,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 16,10,llamarse,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 16,11,intercambiar,,,1,Present,Preterite
+Experimental,SPA 3,E_Text 16,12,planear reunir,,,1,Infinitive,Preterite
+Experimental,SPA 3,E_Text 16,13,encontrarse,,,1,Present,Preterite
+Experimental,SPA 3,E_Text 16,14,decir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 16,15,tratar encontrar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 16,16,cambiar,,,1,Present,Preterite
+Experimental,SPA 3,E_Text 16,17,estar,,,1,Present,imperfect
+Experimental,SPA 3,E_Text 16,18,tener,,,1,Present,Imperfect
+Experimental,SPA 3,E_Text 16,19,decir,,,1,Present,Preterite
+Experimental,SPA 3,E_Text 16,20,estar,,,1,Present,Imperfect
+Experimental,SPA 3,E_Text 16,21,despedirse,,,1,Present,Preterite
+Experimental,SPA 3,E_Text 16,22,ir,,,1,Present,Preterite
+Experimental,SPA 3,E_Text 16,23,llegar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 16,24,empezar a reirse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 16,25,intercambiar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 17,1,aprender,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 17,2,mudarse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 17,3,tener,,,1,Present,preterite
+Experimental,SPA 3,E_Text 17,4,tener,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 17,5,conocer,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 17,6,buscar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 17,7,tener,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 17,8,saber,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 17,9,salir,1,,,Infintive,Infintive
+Experimental,SPA 3,E_Text 17,10,ser,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 17,11,tener,,,1,Present,Imperfect
+Experimental,SPA 3,E_Text 17,12,comer,,,1,Present,preterite
+Experimental,SPA 3,E_Text 17,13,aprender,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 17,14,ir,,,1,Imperfect,Preterite
+Experimental,SPA 3,E_Text 17,15,formar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 17,16,tener,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 17,17,tener,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 18,1,leer,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,2,querer,,1,,Gerund,ambiguous
+Experimental,SPA 3,E_Text 18,3,querer,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,4,conocer,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,5,llamarse,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,6,estar,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,7,llegar,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,8,ir,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,9,abrir,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,10,tener,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 18,11,encontrar,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,12,darse,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,13,tener,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,14,tener,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,15,estar,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,16,encontrarse,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,17,ayudar,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,18,dar,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,19,estar,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,20,llegar,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,21,aprender,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,22,vivir,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,23,hacerse,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,24,invitar,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,25,ponerse ,1,,,Present,Present
+Experimental,SPA 3,E_Text 18,26,encontrarse,1,,,Present,Present
+Experimental,SPA 3,E_Text 19,1,ser,1,,,Imperfecto,Imperfecto
+Experimental,SPA 3,E_Text 19,2,irse,1,,,Present,Present
+Experimental,SPA 3,E_Text 19,3,llegar,1,,,Present,Present
+Experimental,SPA 3,E_Text 19,4,cambiarse,1,,,Present,Present
+Experimental,SPA 3,E_Text 19,5,encontrar,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 19,6,encontrarse,1,,,Present,Present
+Experimental,SPA 3,E_Text 19,7,mostrar,1,,,Present,Present
+Experimental,SPA 3,E_Text 19,8,invitar,1,,,Present,Present
+Experimental,SPA 3,E_Text 19,9,poder,1,,,Present,Present
+Experimental,SPA 3,E_Text 19,10,conocer,1,,,Present,Present
+Experimental,SPA 3,E_Text 19,11,llamar,1,,,Past participle,Past participle
+Experimental,SPA 3,E_Text 19,12,tener,1,,,Present,Present
+Experimental,SPA 3,E_Text 19,13,reunirse,1,,,Present,Present
+Experimental,SPA 3,E_Text 19,14,obtener,1,,,Present,Present
+Experimental,SPA 3,E_Text 19,15,hacer,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 19,16,llevar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 19,17,enterarse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 19,18,quedarse,1,,,Present,Present
+Experimental,SPA 3,E_Text 19,19,invitar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 19,20,enterarse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 19,21,mostrar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 19,22,comer,1,,,Present,Present
+Experimental,SPA 3,E_Text 19,23,llevar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 19,24,apoyar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 19,25,ser,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 19,26,reirse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 19,27,haber,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 19,28,continuar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 19,29,hacer,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 19,30,perder,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 20,1,encontrar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 20,2,planear,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 20,3,ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 20,4,cambiar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 20,5,estar,1,,,imperfect,imperfect
+Experimental,SPA 3,E_Text 20,6,ver,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 20,7,tomar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 20,8,ser,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 20,9,saber,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 20,10,vivir,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 21,1,encontrar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 21,2,comenzar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 21,3,aceptar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 21,4,marcar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 21,5,ganar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 21,6,estar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 21,7,pasar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 21,8,irse,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 21,9,recibir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 21,10,decir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 21,11,ser,,,1,Present,Imperfect
+Experimental,SPA 3,E_Text 21,12,conectar,,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 21,13,decidir conocer,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 21,14,conocer,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 21,15,conseguir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 21,16,estabar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 21,17,poner,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 21,18,gustar ,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 21,19,ir,,,1,Imperfect,Preterite
+Experimental,SPA 3,E_Text 21,20,estar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 22,1,hacer,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 22,2,continuar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 22,3,ser,,,1,Preterite,imperfect
+Experimental,SPA 3,E_Text 22,4,pasar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 22,5,ser hablar,,,1,Preterite,Imperfect
+Experimental,SPA 3,E_Text 22,6,haber,,,1,Present,imperfect
+Experimental,SPA 3,E_Text 22,7,tener,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 22,8,obtener,,,1,Infinitive,Preterite
+Experimental,SPA 3,E_Text 22,9,estar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 22,10,tener,,,1,Preterite,imperfect
+Experimental,SPA 3,E_Text 23,1,ser,,,1,Present,Imperfect
+Experimental,SPA 3,E_Text 23,2,estar,,,1,Present,Imperfect
+Experimental,SPA 3,E_Text 23,3,decidir ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 23,4,visitar,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 23,5,practicar,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 23,6,estar,,,1,Present,Imperfect
+Experimental,SPA 3,E_Text 23,7,tener,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 23,8,conocer,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 23,8,estudiar,,,1,Imperfect,pluperfect
+Experimental,SPA 3,E_Text 23,9,llegar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 23,10,descubrir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 23,11,tener,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 23,12,ser,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 23,13,tener encontrar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 23,14,comer,,,1,Preterite,imperfect
+Experimental,SPA 3,E_Text 23,15,descubrir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 23,16,ser,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 23,17,tener,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 23,18,ser,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 23,19,abrir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 23,20,invitar conocer,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 23,21,hacer,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 23,22,ir,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 23,23,intercambiar,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 23,24,aprender,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 23,25,estar,,,1,Present,Imperfect
+Experimental,SPA 3,E_Text 23,26,estar,1,,,Imperfect,Imperfect
+Experimental,SPA 3,E_Text 23,27,recuperar,1,,,Infinitive,Infinitive
+Experimental,SPA 3,E_Text 23,28,llegar,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 23,29,darse,1,,,Preterite,Preterite
+Experimental,SPA 3,E_Text 23,30,cambiar,1,,,past perfect,past perfect
+Experimental,SPA 3,E_Text 23,31,saber,1,,,imperfect,imperfect
+Experimental,SPA 3,E_Text 23,32,encontrar,1,,,Infinitive,Infinitive
+,,,,,,,,,
+Control,SPA 3,C_Text 1,1,Estudiar,,1,,imperfect,ambiguous
+Control,SPA 3,C_Text 1,2,Conocer,1,,,preterit,preterit
+Control,SPA 3,C_Text 1,3,Perder,1,,,preterit,preterit
+Control,SPA 3,C_Text 1,4,Aprender,1,,,preterit,preterit
+Control,SPA 3,C_Text 1,5,Comer,1,,,preterit,preterit
+Control,SPA 3,C_Text 1,6,Ser,1,,,preterit,preterit
+Control,SPA 3,C_Text 1,7,Ser,1,,,preterit,preterit
+Control,SPA 3,C_Text 1,8,Tener,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 1,9,Ir,1,,,preterit,preterit
+Control,SPA 3,C_Text 1,10,Admirar,1,,,preterit,preterit
+Control,SPA 3,C_Text 1,11,Ir,1,,,preterit,preterit
+Control,SPA 3,C_Text 1,12,Aprender,1,,,preterit,preterit
+Control,SPA 3,C_Text 1,13,Ser,1,,,present,present
+Control,SPA 3,C_Text 1,14,Haber / Ser,,1,,present,ambiguous
+Control,SPA 3,C_Text 1,15,Comer,,,1,infinitive,ambiguous
+Control,SPA 3,C_Text 1,16,Estar,1,,,present,present
+Control,SPA 3,C_Text 1,17,Poder mantenerse,1,,,preterit,preterit
+Control,SPA 3,C_Text 1,18,Hacer,1,,,preterit,preterit
+Control,SPA 3,C_Text 1,19,Regresar,1,,,preterit,preterit
+Control,SPA 3,C_Text 1,20,Devolver,1,,,preterit,preterit
+Control,SPA 3,C_Text 2,1,Ser,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 2,2,Querer ir,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 2,3,Aprender,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 2,4,Buscar,1,,,preterit,preterit
+Control,SPA 3,C_Text 2,5,Querer,,1,,preterit,Ambigous
+Control,SPA 3,C_Text 2,6,Preparar,1,,,preterit,preterit
+Control,SPA 3,C_Text 2,7,Estar sentado,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 2,8,Hablar,1,,,preterit,preterit
+Control,SPA 3,C_Text 2,9,Llegar,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 2,10,Ver,1,,,preterit,preterit
+Control,SPA 3,C_Text 2,11,Tener,,,1,preterit,imperfect
+Control,SPA 3,C_Text 2,12,Tener,,,1,preterit,imperfect
+Control,SPA 3,C_Text 2,13,Tener,,,1,preterit,imperfect
+Control,SPA 3,C_Text 2,14,Necesitar buscar,,,1,preterit,imperfect
+Control,SPA 3,C_Text 2,15,Buscar,1,,,preterit,preterit
+Control,SPA 3,C_Text 2,16,Saber,,,1,preterit,imperfect
+Control,SPA 3,C_Text 2,17,Estar,,,1,present,imperfect
+Control,SPA 3,C_Text 2,18,Estar buscando,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 2,19,Hacer,1,,,preterit,preterit
+Control,SPA 3,C_Text 2,20,Encontrar,1,,,preterit,preterit
+Control,SPA 3,C_Text 2,21,Añadir,1,,,preterit,preterit
+Control,SPA 3,C_Text 2,22,Intercambiar,1,,,preterit,preterit
+Control,SPA 3,C_Text 2,23,Llegar,,,1,infinitive,preterit
+Control,SPA 3,C_Text 2,24,Ver,1,,,preterit,preterit
+Control,SPA 3,C_Text 2,25,Tener,,,1,preterit,imperfect
+Control,SPA 3,C_Text 3,1,Visitar,1,,,preterit,preterit
+Control,SPA 3,C_Text 3,2,Ser,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 3,3,Completar,1,,,preterit,preterit
+Control,SPA 3,C_Text 3,4,Llegar,1,,,preterit,preterit
+Control,SPA 3,C_Text 3,5,Perder,1,,,preterit,preterit
+Control,SPA 3,C_Text 3,6,Tener,,1,,imperfect,ambiguous
+Control,SPA 3,C_Text 3,7,Ir,1,,,preterit,preterit
+Control,SPA 3,C_Text 3,8,Ser,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 3,9,Llegar,1,,,preterit,preterit
+Control,SPA 3,C_Text 3,10,Ver,,,1,imperfect,preterit
+Control,SPA 3,C_Text 4,1,Querer participar,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 4,2,Hacer,1,,,preterit,preterit
+Control,SPA 3,C_Text 4,3,Preparar,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 4,4,Aplicar,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 4,5,Estar,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 4,6,Conocer,1,,,preterit,preterit
+Control,SPA 3,C_Text 4,7,Estar estudiando,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 4,8,Realizar,1,,,preterit,preterit
+Control,SPA 3,C_Text 4,9,Tener,,,1,preterit,imperfect
+Control,SPA 3,C_Text 4,10,Intercambiar,,,1,past participle,ambiguous
+Control,SPA 3,C_Text 4,11,Conocer,1,,,preterit,preterit
+Control,SPA 3,C_Text 4,12,Ir,1,,,preterit,preterit
+Control,SPA 3,C_Text 5,1,Salir,1,,,preterit,preterit
+Control,SPA 3,C_Text 5,2,Llamarse,1,,,present,imperfect
+Control,SPA 3,C_Text 5,3,Tomar,1,,,preterit,preterit
+Control,SPA 3,C_Text 5,4,Tomar,1,,,preterit,preterit
+Control,SPA 3,C_Text 5,5,Vivir,,,1,present,imperfect
+Control,SPA 3,C_Text 5,6,Conoció,1,,,preterit,preterit
+Control,SPA 3,C_Text 5,7,Intercambiar,,,1,infinitive,preterit
+Control,SPA 3,C_Text 5,8,Estar,,,1,imperfect,preterit
+Control,SPA 3,C_Text 5,9,Tener,,,1,present,imperfect
+Control,SPA 3,C_Text 5,10,Pasar,,,1,imperfect,preterit
+Control,SPA 3,C_Text 5,11,Conocer,1,,,preterit,preterit
+Control,SPA 3,C_Text 5,12,Pasar,1,,,preterit,preterit
+Control,SPA 3,C_Text 5,13,Ver,,,1,infinitive,gerund
+Control,SPA 3,C_Text 5,14,Comer,1,,,preterit,preterit
+Control,SPA 3,C_Text 5,15,Comer,1,,,preterit,preterit
+Control,SPA 3,C_Text 5,16,Comer,,,1,preterit,pluperfect
+Control,SPA 3,C_Text 5,17,Visitar,,,1,imperfect,infinitive
+Control,SPA 3,C_Text 6,1,Ir,1,,,preterit,preterit
+Control,SPA 3,C_Text 6,2,Ser,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 6,3,Haber,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 6,4,Hacer,1,,,preterit,preterit
+Control,SPA 3,C_Text 6,5,Hablar,1,,,preterit,preterit
+Control,SPA 3,C_Text 6,6,Llegar,1,,,preterit,preterit
+Control,SPA 3,C_Text 6,7,Tener,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 6,8,Ser,,,1,present,imperfect
+Control,SPA 3,C_Text 6,9,Tener,,,1,imperfect,preterit
+Control,SPA 3,C_Text 6,10,Gustar,,,1,present,preterit
+Control,SPA 3,C_Text 6,11,Ser,,,1,present,imperfect
+Control,SPA 3,C_Text 6,12,Comer,1,,,preterit,preterit
+Control,SPA 3,C_Text 6,13,Tener,,,1,present,preterit
+Control,SPA 3,C_Text 7,1,Viajar,1,,,present,present
+Control,SPA 3,C_Text 7,2,Encontrar,1,,,present,present
+Control,SPA 3,C_Text 7,3,Ser,1,,,present,present
+Control,SPA 3,C_Text 7,4,Partir,,,1,infinitive,present
+Control,SPA 3,C_Text 7,5,Decir,1,,,present,present
+Control,SPA 3,C_Text 7,6,Perder,,,1,preterit,present
+Control,SPA 3,C_Text 7,7,Tener,1,,,present,present
+Control,SPA 3,C_Text 7,8,Tener,1,,,present,present
+Control,SPA 3,C_Text 7,9,Ser,1,,,present,present
+Control,SPA 3,C_Text 7,10,Pasar,,1,,preterit,ambiguous
+Control,SPA 3,C_Text 7,11,Ser,1,,,present,present
+Control,SPA 3,C_Text 7,12,Jugar,,,1,infinitive,present
+Control,SPA 3,C_Text 7,13,Ayudar,,,1,infinitive,present
+Control,SPA 3,C_Text 7,14,Tomar,,,1,infinitive,present
+Control,SPA 3,C_Text 7,15,Encontrar,1,,,present,present
+Control,SPA 3,C_Text 7,16,Intercambiar,,,1,infinitive,present
+Control,SPA 3,C_Text 7,17,Dar,,,1,infinitive,present
+Control,SPA 3,C_Text 8,1,Ser,1,,,present,present
+Control,SPA 3,C_Text 8,2,Llamarse,1,,,present,present
+Control,SPA 3,C_Text 8,3,Haber estudiado,1,,,pluperfect,pluperfect
+Control,SPA 3,C_Text 8,4,Querer aprender,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 8,5,Querer viajar,,,1,preterit,imperfect
+Control,SPA 3,C_Text 8,6,Hablar,1,,,present,present
+Control,SPA 3,C_Text 8,7,Decidir,1,,,preterit,preterit
+Control,SPA 3,C_Text 8,8,Conocer,1,,,preterit,preterit
+Control,SPA 3,C_Text 8,9,Mencionar,1,,,preterit,preterit
+Control,SPA 3,C_Text 8,10,Ser,,,1,present,imperfect
+Control,SPA 3,C_Text 8,11,Llegar,1,,,preterit,preterit
+Control,SPA 3,C_Text 8,12,Querer,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 8,13,Tomar,1,,,preterit,preterit
+Control,SPA 3,C_Text 8,14,Conocer,1,,,preterit,preterit
+Control,SPA 3,C_Text 8,15,Conocer,1,,,preterit,preterit
+Control,SPA 3,C_Text 8,16,Conocer,1,,,preterit,preterit
+Control,SPA 3,C_Text 8,17,Tratar de encontrar,,1,,imperfect,ambiguous
+Control,SPA 3,C_Text 8,18,Contactar,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 8,19,Obtener,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 8,20,Devolver,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 8,21,Salir,1,,,preterit,preterit
+Control,SPA 3,C_Text 8,22,Ir,1,,,preterit,preterit
+Control,SPA 3,C_Text 9,1,Ser,1,,,present,present
+Control,SPA 3,C_Text 9,2,Llamarse,1,,,present,present
+Control,SPA 3,C_Text 9,3,Viajar,1,,,preterit,preterit
+Control,SPA 3,C_Text 9,4,Prepararse,1,,,preterit,preterit
+Control,SPA 3,C_Text 9,5,Viajar,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 9,6,Llegar,1,,,preterit,preterit
+Control,SPA 3,C_Text 9,7,Ser recibido,1,,,preterit ,preterit 
+Control,SPA 3,C_Text 9,8,Perder,1,,,preterit,preterit
+Control,SPA 3,C_Text 9,9,Buscar,1,,,preterit,preterit
+Control,SPA 3,C_Text 9,10,Encontrar,1,,,preterit,preterit
+Control,SPA 3,C_Text 9,11,Conocer,,,1,preterit,imperfect
+Control,SPA 3,C_Text 9,12,Tener,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 9,13,Hacer,1,,,preterit,preterit
+Control,SPA 3,C_Text 9,14,Ir,1,,,preterit,preterit
+Control,SPA 3,C_Text 9,15,Asistir,1,,,preterit,preterit
+Control,SPA 3,C_Text 9,16,Encontrar,1,,,preterit,preterit
+Control,SPA 3,C_Text 10,1,Ser,1,,,present,present
+Control,SPA 3,C_Text 10,2,Ir a estudiar,1,,,present,present
+Control,SPA 3,C_Text 10,3,Estar,1,,,present,present
+Control,SPA 3,C_Text 10,4,Conocer,1,,,present,present
+Control,SPA 3,C_Text 10,5,Haber terminado,1,,,present,present
+Control,SPA 3,C_Text 10,6,Estar regresando,1,,,present,present
+Control,SPA 3,C_Text 10,7,Estar intercambiadas,1,,,present,present
+Control,SPA 3,C_Text 10,8,Necesitar encontrar,1,,,present,present
+Control,SPA 3,C_Text 10,9,Experimentar,1,,,present,present
+Control,SPA 3,C_Text 11,1,Ir a pasar,1,,,present,present
+Control,SPA 3,C_Text 11,2,Estudiar,1,,,Gerund,Gerund
+Control,SPA 3,C_Text 11,3,Ir a pasar,1,,,present,present
+Control,SPA 3,C_Text 11,4,Aprender,1,,,present,present
+Control,SPA 3,C_Text 11,5,Visitar,1,,,present,present
+Control,SPA 3,C_Text 11,6,Ir ,1,,,present,present
+Control,SPA 3,C_Text 11,7,Visitar,1,,,present,present
+Control,SPA 3,C_Text 11,8,Ofrecer,1,,,present,present
+Control,SPA 3,C_Text 11,9,Beber,1,,,present,present
+Control,SPA 3,C_Text 11,10,Ser,1,,,present,present
+Control,SPA 3,C_Text 11,11,Encontrar,1,,,present,present
+Control,SPA 3,C_Text 11,12,Tomar,1,,,preterit,preterit
+Control,SPA 3,C_Text 11,13,Recuperar,1,,,present,present
+Control,SPA 3,C_Text 12,1,Llevar,1,,,preterit,preterit
+Control,SPA 3,C_Text 12,2,Haber,,,1,imperfect,preterit
+Control,SPA 3,C_Text 12,3,Necesitar encontrar,,,1,imperfect,preterit
+Control,SPA 3,C_Text 12,4,Tener,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 12,5,Descubir,1,,,preterit,preterit
+Control,SPA 3,C_Text 12,6,Hacer,,,1,imperfect,preterit
+Control,SPA 3,C_Text 12,7,Bailar,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 12,8,Dormir,1,,,preterit,preterit
+Control,SPA 3,C_Text 12,9,Comer,,,1,imperfect,preterit
+Control,SPA 3,C_Text 12,10,Hablar,,,1,imperfect,preterit
+Control,SPA 3,C_Text 12,11,Vender,,1,,preterit,ambiguous
+Control,SPA 3,C_Text 12,12,Hablar,,1,,imperfect,ambiguous
+Control,SPA 3,C_Text 12,13,Dormir,,,1,preterit,imperfect
+Control,SPA 3,C_Text 12,14,Ir,1,,,preterit,preterit
+Control,SPA 3,C_Text 12,15,Ser,1,,,preterit,preterit
+Control,SPA 3,C_Text 12,16,Comunicar,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 12,17,Tener,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 13,1,Ser,1,,,present,present
+Control,SPA 3,C_Text 13,2,Partir,,,1,past participle,present
+Control,SPA 3,C_Text 13,3,Conocer,,,1,infinitive,present
+Control,SPA 3,C_Text 13,4,Beber,1,,,present,present
+Control,SPA 3,C_Text 13,5,Comer,1,,,present,present
+Control,SPA 3,C_Text 13,6,Visitar,,,1,infinitive,present
+Control,SPA 3,C_Text 13,7,Aprender,,,1,infinitive,present
+Control,SPA 3,C_Text 13,8,Ser,1,,,present,present
+Control,SPA 3,C_Text 13,9,Gustar,1,,,present,present
+Control,SPA 3,C_Text 14,1,Ir ,,,1,present,preterit
+Control,SPA 3,C_Text 14,2,Perder,1,,,preterit,preterit
+Control,SPA 3,C_Text 14,3,Tomar,1,,,preterit,preterit
+Control,SPA 3,C_Text 14,4,Llegar,1,,,preterit,preterit
+Control,SPA 3,C_Text 14,5,Buscar,,,1,imperfect,preterit
+Control,SPA 3,C_Text 14,6,Conocer,1,,,preterit,preterit
+Control,SPA 3,C_Text 14,7,Ir ,1,,,preterit,preterit
+Control,SPA 3,C_Text 14,8,Encontrar,1,,,preterit,preterit
+Control,SPA 3,C_Text 14,9,Conocer,1,,,preterit,preterit
+Control,SPA 3,C_Text 14,10,Obtener,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 14,11,Tomar,1,,,preterit,preterit
+Control,SPA 3,C_Text 15,1,Ser,1,,,present,present
+Control,SPA 3,C_Text 15,2,Estudiar,1,,,present,present
+Control,SPA 3,C_Text 15,3,Conseguir,1,,,present,present
+Control,SPA 3,C_Text 15,4,Estudiar,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 15,5,Tomar,1,,,present,present
+Control,SPA 3,C_Text 15,6,Llegar,,1,,Gerund,Gerund
+Control,SPA 3,C_Text 15,7,Haber cambiado,,,1,imperfect,pluperfect
+Control,SPA 3,C_Text 15,8,Llamarse,,1,,present,ambiguous
+Control,SPA 3,C_Text 15,9,Poder ubicarse,,,1,preterit,imperfect
+Control,SPA 3,C_Text 15,10,Comprar,1,,,preterit,preterit
+Control,SPA 3,C_Text 15,11,Estar,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 15,12,Tener,,,1,imperfect,preterit
+Control,SPA 3,C_Text 15,13,Había,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 15,14,Ubicarse,1,,,preterit,preterit
+Control,SPA 3,C_Text 15,15,Trade,,1,,English,English
+Control,SPA 3,C_Text 16,1,Ser,1,,,present,present
+Control,SPA 3,C_Text 16,2,Decidir,1,,,preterit,preterit
+Control,SPA 3,C_Text 16,3,Describir,,,1,preterit,present
+Control,SPA 3,C_Text 16,4,Ser,1,,,present,present
+Control,SPA 3,C_Text 16,5,Intercambiar,1,,,preterit,preterit
+Control,SPA 3,C_Text 16,6,Ser intercambiadas,1,,,preterit,preterit
+Control,SPA 3,C_Text 16,7,Sabían,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 16,8,Encontrarse,1,,,preterit,preterit
+Control,SPA 3,C_Text 16,9,Reunirse,,,1,infinitive,preterit
+Control,SPA 3,C_Text 16,10,Hacer,1,,,preterit,preterit
+Control,SPA 3,C_Text 16,11,Ir,1,,,preterit,preterit
+Control,SPA 3,C_Text 16,12,Comer,1,,,preterit,preterit
+Control,SPA 3,C_Text 17,1,Ir,1,,,preterit,preterit
+Control,SPA 3,C_Text 17,2,Estudiar,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 17,3,Conocer,1,,,preterit,preterit
+Control,SPA 3,C_Text 17,4,Llevarse,1,,,preterit,preterit
+Control,SPA 3,C_Text 17,5,Necesitar encontrar,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 17,6,Necesitar conseguir,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 17,7,Necesitar dar,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 17,8,Conocer,1,,,preterit,preterit
+Control,SPA 3,C_Text 17,9,Ir,1,,,preterit,preterit
+Control,SPA 3,C_Text 17,10,Encontrar,1,,,preterit,preterit
+Control,SPA 3,C_Text 17,11,Intercambiar,1,,,preterit,preterit
+Control,SPA 3,C_Text 18,1,Leer,,,1,present,preterit
+Control,SPA 3,C_Text 18,2,Tratar de,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 18,3,Irse a estudiar,1,,,preterit,preterit
+Control,SPA 3,C_Text 18,4,Aprender,1,,,preterit,preterit
+Control,SPA 3,C_Text 18,5,Divertirse,1,,,preterit,preterit
+Control,SPA 3,C_Text 18,6,Estar,,1,,preterit,ambiguous
+Control,SPA 3,C_Text 18,7,Hacer,1,,,preterit,preterit
+Control,SPA 3,C_Text 18,8,Hacer,1,,,preterit,preterit
+Control,SPA 3,C_Text 18,9,Ir,1,,,preterit,preterit
+Control,SPA 3,C_Text 18,10,Probar,1,,,preterit,preterit
+Control,SPA 3,C_Text 19,1,Irse a estudiar,1,,,present,present
+Control,SPA 3,C_Text 19,2,Volar,1,,,present,present
+Control,SPA 3,C_Text 19,3,Irse a quedar,1,,,present,present
+Control,SPA 3,C_Text 19,4,Llegar,1,,,present,present
+Control,SPA 3,C_Text 19,5,Perder,1,,,present,present
+Control,SPA 3,C_Text 19,6,Tomar,1,,,present,present
+Control,SPA 3,C_Text 19,7,Tener que ir,1,,,present,present
+Control,SPA 3,C_Text 19,8,Buscar,1,,,infinitive ,infinitive 
+Control,SPA 3,C_Text 19,9,Recuperar,1,,,infinitive ,infinitive 
+Control,SPA 3,C_Text 19,10,Ir a buscar,1,,,present,present
+Control,SPA 3,C_Text 19,11,Explorar,1,,,present,present
+Control,SPA 3,C_Text 19,12,Enterarse,1,,,present,present
+Control,SPA 3,C_Text 19,13,Conocer,1,,,present,present
+Control,SPA 3,C_Text 19,14,Salir,1,,,present,present
+Control,SPA 3,C_Text 19,15,Comer ,1,,,present,present
+Control,SPA 3,C_Text 20,1,Ser,1,,,present,present
+Control,SPA 3,C_Text 20,2,Ir,1,,,present,present
+Control,SPA 3,C_Text 20,3,Estudiar,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 20,4,Vivir,1,,,present,present
+Control,SPA 3,C_Text 20,5,Explorar,1,,,present,present
+Control,SPA 3,C_Text 20,6,Haber,1,,,present,present
+Control,SPA 3,C_Text 20,7,Aprender,1,,,present,present
+Control,SPA 3,C_Text 20,8,Ser,1,,,present,present
+Control,SPA 3,C_Text 20,9,Tener,,,1,imperfect,preterit
+Control,SPA 3,C_Text 21,1,Ser,1,,,present,present
+Control,SPA 3,C_Text 21,2,Estar,1,,,present,present
+Control,SPA 3,C_Text 21,3,Estar,1,,,present,present
+Control,SPA 3,C_Text 21,4,Ver,1,,,present,present
+Control,SPA 3,C_Text 21,5,Conocer,1,,,present,present
+Control,SPA 3,C_Text 21,6,Ser,1,,,present,present
+Control,SPA 3,C_Text 21,7,Estar,1,,,present,present
+Control,SPA 3,C_Text 21,8,Estar,1,,,present,present
+Control,SPA 3,C_Text 21,9,Estar,1,,,present,present
+Control,SPA 3,C_Text 21,10,Aprender,1,,,present,present
+Control,SPA 3,C_Text 21,11,Tener,1,,,present,present
+Control,SPA 3,C_Text 21,12,Ser,1,,,present,present
+Control,SPA 3,C_Text 21,13,Hablar,1,,,present,present
+Control,SPA 3,C_Text 21,14,Ayudar,,,1,infinitive,present
+Control,SPA 3,C_Text 21,15,Encontrar,,,,infinitive,infinitive
+Control,SPA 3,C_Text 21,16,Estar,1,,,present,present
+Control,SPA 3,C_Text 22,1,Querer viajar,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 22,2,Irse,1,,,preterit,preterit
+Control,SPA 3,C_Text 22,3,Conocer,1,,,preterit,preterit
+Control,SPA 3,C_Text 22,4,Cambiar,1,,,preterit,preterit
+Control,SPA 3,C_Text 22,5,Tener que tratar,1,,,preterit,preterit
+Control,SPA 3,C_Text 22,6,Hacer,1,,,preterit,preterit
+Control,SPA 3,C_Text 22,7,Probar,1,,,preterit,preterit
+Control,SPA 3,C_Text 22,8,Encontrar,1,,,preterit,preterit
+Control,SPA 3,C_Text 22,9,Recuperar,1,,,preterit,preterit
+Control,SPA 3,C_Text 23,1,Ser,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 23,2,Viajar,1,,,present,present
+Control,SPA 3,C_Text 23,3,Encontrarse,1,,,present,present
+Control,SPA 3,C_Text 23,4,Practicar,1,,,present,present
+Control,SPA 3,C_Text 23,5,Perder,1,,,present,present
+Control,SPA 3,C_Text 23,6,Conocer,1,,,preterit,preterit
+Control,SPA 3,C_Text 23,7,Llevarse,1,,,preterit,preterit
+Control,SPA 3,C_Text 23,8,Intentar encontrar,1,,,present,present
+Control,SPA 3,C_Text 23,9,Poder,1,,,present,present
+Control,SPA 3,C_Text 23,10,Divertirse,1,,,present,present
+Control,SPA 3,C_Text 23,11,Conocer,1,,,present,present
+Control,SPA 3,C_Text 23,12,Ir,1,,,present,present
+Control,SPA 3,C_Text 23,13,Encontrar,1,,,present,present
+Control,SPA 3,C_Text 23,14,Devolver,1,,,present,present
+Control,SPA 3,C_Text 23,15,Terminar,1,,,present,present
+Control,SPA 3,C_Text 24,1,Irse,1,,,present,present
+Control,SPA 3,C_Text 24,2,Conocerse,1,,,present,preterit
+Control,SPA 3,C_Text 24,3,Ser,,1,,imperfect,ambiguous
+Control,SPA 3,C_Text 24,4,Estar haciendo,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 24,5,Tener,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 24,6,Confundir,1,,,preterit,preterit
+Control,SPA 3,C_Text 24,7,Necesitar encontrar,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 24,8,Encontrar,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 24,9,Conocerse,1,,,preterit,preterit
+Control,SPA 3,C_Text 24,10,Invitar,1,,,preterit,preterit
+Control,SPA 3,C_Text 24,11,Ver,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 24,12,Mensajear,1,,,preterit,preterit
+Control,SPA 3,C_Text 24,13,Convenir,1,,,preterit,preterit
+Control,SPA 3,C_Text 24,14,Cambiar,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 24,15,Regresar,1,,,preterit,preterit
+Control,SPA 3,C_Text 24,16,Descubir,1,,,preterit,preterit
+Control,SPA 3,C_Text 24,17,Ser intercambiadas,1,,,preterit,preterit
+Control,SPA 3,C_Text 25,1,Viajar,1,,,present,present
+Control,SPA 3,C_Text 25,2,Estudiar,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 25,3,Conocer,1,,,present,present
+Control,SPA 3,C_Text 25,4,Ser,1,,,present,present
+Control,SPA 3,C_Text 25,5,Ser,1,,,present,present
+Control,SPA 3,C_Text 25,6,Mezclar,1,,,present,present
+Control,SPA 3,C_Text 25,7,Salir,1,,,present,present
+Control,SPA 3,C_Text 25,8,Comprar,1,,,present,present
+Control,SPA 3,C_Text 25,9,Ir,1,,,present,present
+Control,SPA 3,C_Text 25,10,Conocer,1,,,present,present
+Control,SPA 3,C_Text 25,11,Dar,1,,,present,present
+Control,SPA 3,C_Text 25,12,Ir,1,,,present,present
+Control,SPA 3,C_Text 25,13,Vivir,1,,,present,present
+Control,SPA 3,C_Text 25,14,Hablar,1,,,present,present
+Control,SPA 3,C_Text 25,15,Ir,1,,,present,present
+Control,SPA 3,C_Text 25,16,Ir,1,,,present,present
+Control,SPA 3,C_Text 25,17,Encontrar,1,,,present,present
+Control,SPA 3,C_Text 26,1,Comenzar,1,,,present,present
+Control,SPA 3,C_Text 26,2,Irse ,1,,,present,present
+Control,SPA 3,C_Text 26,3,Tomar,1,,,present,present
+Control,SPA 3,C_Text 26,4,Conocer,1,,,present,present
+Control,SPA 3,C_Text 26,5,Enterarse,1,,,present,present
+Control,SPA 3,C_Text 26,6,Ir,1,,,present,present
+Control,SPA 3,C_Text 26,7,Compartir,1,,,present,present
+Control,SPA 3,C_Text 26,8,Bajarse,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 26,9,Conocer,1,,,present,present
+Control,SPA 3,C_Text 26,10,Cuidar,1,,,Future,Future
+Control,SPA 3,C_Text 26,11,Ir a buscar,1,,,present,present
+Control,SPA 3,C_Text 27,1,Empezar,,1,,ambiguous,present
+Control,SPA 3,C_Text 27,2,Vivir,1,,,present,present
+Control,SPA 3,C_Text 27,3,Trabajar,1,,,present,present
+Control,SPA 3,C_Text 27,4,Querer viajar,1,,,present,present
+Control,SPA 3,C_Text 27,5,Preparar,1,,,present,present
+Control,SPA 3,C_Text 27,6,Llegar,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 27,7,Discutir,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 27,8,Conocer,1,,,present,present
+Control,SPA 3,C_Text 27,9,Ser,1,,,present,present
+Control,SPA 3,C_Text 27,10,Ir,1,,,present,present
+Control,SPA 3,C_Text 27,11,Salir,1,,,present,present
+Control,SPA 3,C_Text 27,12,Agarrar,1,,,present,present
+Control,SPA 3,C_Text 27,13,Conocer,1,,,present,present
+Control,SPA 3,C_Text 27,14,Darse cuenta,1,,,present,present
+Control,SPA 3,C_Text 27,15,Ser,1,,,present,present
+Control,SPA 3,C_Text 27,16,Conocer,1,,,present,present
+Control,SPA 3,C_Text 27,17,Incluir,1,,,present,present
+Control,SPA 3,C_Text 27,18,Visitar,1,,,present,present
+Control,SPA 3,C_Text 27,19,Visitar,,,1,infinitive,present
+Control,SPA 3,C_Text 27,20,Encontrar,,,1,infinitive,present
+Control,SPA 3,C_Text 27,21,Agarrar,1,,,present,present
+Control,SPA 3,C_Text 28,1,Ser,1,,,present,present
+Control,SPA 3,C_Text 28,2,Decidir estudiar,1,,,present,present
+Control,SPA 3,C_Text 28,3,Perder,1,,,present,present
+Control,SPA 3,C_Text 28,4,Llevarse,1,,,present,present
+Control,SPA 3,C_Text 28,5,Tener,1,,,present,present
+Control,SPA 3,C_Text 28,6,Hablar,1,,,present,present
+Control,SPA 3,C_Text 28,7,Hacer,1,,,present,present
+Control,SPA 3,C_Text 28,8,Ir,1,,,present,present
+Control,SPA 3,C_Text 28,9,Probar,1,,,present,present
+Control,SPA 3,C_Text 29,1,Ser,1,,,present,present
+Control,SPA 3,C_Text 29,2,Viajar,1,,,present,present
+Control,SPA 3,C_Text 29,3,Conocer,1,,,present,present
+Control,SPA 3,C_Text 29,4,Ser,1,,,present,present
+Control,SPA 3,C_Text 29,5,Seguir,1,,,present,present
+Control,SPA 3,C_Text 29,6,Querer encontrar,1,,,present,present
+Control,SPA 3,C_Text 29,7,Hacer,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 29,8,Aprender,,1,,ambiguous,present
+Control,SPA 3,C_Text 29,9,Bailar,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 29,10,Dar,1,,,present,present
+Control,SPA 3,C_Text 29,11,Tener,1,,,present,present
+Control,SPA 3,C_Text 29,12,Ser,1,,,present,present
+Control,SPA 3,C_Text 29,13,Gustarse,1,,,present,present
+Control,SPA 3,C_Text 30,1,Tratar ,1,,,present,present
+Control,SPA 3,C_Text 30,2,Ir,1,,,present,present
+Control,SPA 3,C_Text 30,3,Estar estudiando,1,,,present,present
+Control,SPA 3,C_Text 30,4,Entrar,1,,,present,present
+Control,SPA 3,C_Text 30,5,Quedarse,1,,,present,present
+Control,SPA 3,C_Text 30,6,Aprender,1,,,present,present
+Control,SPA 3,C_Text 30,7,Hablar,1,,,present,present
+Control,SPA 3,C_Text 30,8,Aprendió,1,,,preterit,preterit
+Control,SPA 3,C_Text 30,9,Perder,1,,,present,present
+Control,SPA 3,C_Text 30,10,Hacer,1,,,present,present
+Control,SPA 3,C_Text 30,11,Recuperar,1,,,present,present
+Control,SPA 3,C_Text 31,1,Estudiar,1,,,preterit,preterit
+Control,SPA 3,C_Text 31,2,Estar,,1,,imperfect,ambiguous
+Control,SPA 3,C_Text 31,3,Estudiar,,1,,preterit,ambiguous
+Control,SPA 3,C_Text 31,4,Subir,1,,,preterit,preterit
+Control,SPA 3,C_Text 31,5,Viajar,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 31,6,Estar,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 31,7,Escuchar,1,,,preterit,preterit
+Control,SPA 3,C_Text 31,8,Conocer,1,,,preterit,preterit
+Control,SPA 3,C_Text 31,9,Ser,,1,,present,ambiguous
+Control,SPA 3,C_Text 31,10,Ser,,1,,present,ambiguous
+Control,SPA 3,C_Text 31,11,Estar,1,,,preterit,preterit
+Control,SPA 3,C_Text 31,12,Tener,1,,,preterit,preterit
+Control,SPA 3,C_Text 31,12,Comer,1,,,preterit,preterit
+Control,SPA 3,C_Text 31,14,Descubir,1,,,preterit,preterit
+Control,SPA 3,C_Text 31,15,Ir,1,,,preterit,preterit
+Control,SPA 3,C_Text 31,16,Tener,1,,,preterit,preterit
+Control,SPA 3,C_Text 32,1,Preparar,1,,,present,present
+Control,SPA 3,C_Text 32,2,Estar,1,,,present,present
+Control,SPA 3,C_Text 32,3,Estar,1,,,present,present
+Control,SPA 3,C_Text 32,4,Conocer,1,,,present,present
+Control,SPA 3,C_Text 32,5,Darse cuenta,1,,,present,present
+Control,SPA 3,C_Text 32,6,Tener,1,,,present,present
+Control,SPA 3,C_Text 32,7,Ser,1,,,present,present
+Control,SPA 3,C_Text 32,8,Conocer,1,,,present,present
+Control,SPA 3,C_Text 32,9,Conocer,1,,,present,present
+Control,SPA 3,C_Text 32,10,Conocer,1,,,present,present
+Control,SPA 3,C_Text 32,11,Ser,1,,,present,present
+Control,SPA 3,C_Text 32,12,Tener,1,,,present,present
+Control,SPA 3,C_Text 32,13,Conocer,1,,,present,present
+Control,SPA 3,C_Text 32,14,Tener,1,,,present,present
+Control,SPA 3,C_Text 33,1,Ir,1,,,preterit,preterit
+Control,SPA 3,C_Text 33,2,Visitar,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 33,3,Conocer,1,,,preterit,preterit
+Control,SPA 3,C_Text 33,4,Hablar,1,,,preterit,preterit
+Control,SPA 3,C_Text 33,5,Están,1,,,present,present
+Control,SPA 3,C_Text 33,6,Llegar,,1,,preterit,ambiguous
+Control,SPA 3,C_Text 33,7,Tomar,1,,,preterit,preterit
+Control,SPA 3,C_Text 33,8,Ir a comprar,1,,,preterit,preterit
+Control,SPA 3,C_Text 33,9,Ir,1,,,preterit,preterit
+Control,SPA 3,C_Text 33,10,Encontrar,1,,,preterit,preterit
+Control,SPA 3,C_Text 34,1,Viajar,1,,,preterit,preterit
+Control,SPA 3,C_Text 34,2,Estudiar,1,,,infinitive,infinitive
+Control,SPA 3,C_Text 34,3,Llegar,1,,,preterit,preterit
+Control,SPA 3,C_Text 34,4,Abrir,1,,,preterit,preterit
+Control,SPA 3,C_Text 34,5,Darse cuenta,1,,,preterit,preterit
+Control,SPA 3,C_Text 34,6,Ser,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 34,7,Ser,1,,,imperfect,imperfect
+Control,SPA 3,C_Text 34,8,Sentarse,,,1,imperfect,preterit
+Control,SPA 3,C_Text 34,9,Conocer,1,,,preterit,preterit
+Control,SPA 3,C_Text 34,10,Pasar,1,,,preterit,preterit
+Control,SPA 3,C_Text 34,11,Tener,1,,,preterit,preterit
+Control,SPA 3,C_Text 34,12,Ir,1,,,preterit,preterit
+Control,SPA 3,C_Text 34,13,Encontrarse,1,,,preterit,preterit
+Control,SPA 3,C_Text 34,14,Recuperar,1,,,preterit,preterit
+Control,SPA 3,C_Text 35,1,Hablar,,1,,preterit,ambiguous
+Control,SPA 3,C_Text 35,2,Viajar,,1,,imperfect,ambiguous
+Control,SPA 3,C_Text 35,3,Encontrarse,1,,,present,present
+Control,SPA 3,C_Text 35,4,Intercambiar,1,,,present,present
+Control,SPA 3,C_Text 35,5,Conocer,1,,,present,present
+Control,SPA 3,C_Text 35,6,Cambiar,1,,,preterit,preterit
+Control,SPA 3,C_Text 35,7,Recuperar,1,,,present,present
+Control,SPA 3,C_Text 35,8,Volverse,1,,,present,present
+Control,SPA 3,C_Text 35,9,Suceder,1,,,preterit,preterit
+Control,SPA 3,C_Text 35,10,Valorar,1,,,present,present
