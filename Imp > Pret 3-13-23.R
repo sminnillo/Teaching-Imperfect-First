@@ -2,6 +2,10 @@
 #3-13-23
 #Sophia Minnillo
 
+#Author: Sophia Minnillo
+#Copyright 2023
+#Distributed under terms of GNU General Public License v3
+
 #project about whether order of instruction
 #impacts L2 Spanish preterit-imperfect accuracy and suppliance
 
